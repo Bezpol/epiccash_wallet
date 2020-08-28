@@ -1,0 +1,16 @@
+C:\Users\Milena\Documents\SharpDevelop Projects\epicwalletcheck\epicwalletcheck\obj\Debug\epicwalletcheck.csprojResolveAssemblyReference.cache
+C:\Users\Milena\Documents\SharpDevelop Projects\epicwalletcheck\epicwalletcheck\bin\Debug\epicwalletcheck.exe.config
+C:\Users\Milena\Documents\SharpDevelop Projects\epicwalletcheck\epicwalletcheck\bin\Debug\epicwalletcheck.exe
+C:\Users\Milena\Documents\SharpDevelop Projects\epicwalletcheck\epicwalletcheck\bin\Debug\epicwalletcheck.pdb
+C:\Users\Milena\Documents\SharpDevelop Projects\epicwalletcheck\epicwalletcheck\obj\Debug\epicwalletcheck.exe
+C:\Users\Milena\Documents\SharpDevelop Projects\epicwalletcheck\epicwalletcheck\obj\Debug\epicwalletcheck.pdb
+C:\Users\Milena\Documents\SharpDevelop Projects\epicwalletcheck\epicwalletcheck\obj\Debug\epicwalletcheck.MainForm.resources
+C:\Users\Milena\Documents\SharpDevelop Projects\epicwalletcheck\epicwalletcheck\obj\Debug\epicwalletcheck.csproj.GenerateResource.Cache
+C:\Users\Milena\Documents\GitHub\epiccash_wallet\epicwalletcheck\epicwalletcheck\bin\Debug\epicwalletcheck.exe.config
+C:\Users\Milena\Documents\GitHub\epiccash_wallet\epicwalletcheck\epicwalletcheck\bin\Debug\epicwalletcheck.exe
+C:\Users\Milena\Documents\GitHub\epiccash_wallet\epicwalletcheck\epicwalletcheck\bin\Debug\epicwalletcheck.pdb
+C:\Users\Milena\Documents\GitHub\epiccash_wallet\epicwalletcheck\epicwalletcheck\obj\Debug\epicwalletcheck.csprojResolveAssemblyReference.cache
+C:\Users\Milena\Documents\GitHub\epiccash_wallet\epicwalletcheck\epicwalletcheck\obj\Debug\epicwalletcheck.MainForm.resources
+C:\Users\Milena\Documents\GitHub\epiccash_wallet\epicwalletcheck\epicwalletcheck\obj\Debug\epicwalletcheck.csproj.GenerateResource.Cache
+C:\Users\Milena\Documents\GitHub\epiccash_wallet\epicwalletcheck\epicwalletcheck\obj\Debug\epicwalletcheck.exe
+C:\Users\Milena\Documents\GitHub\epiccash_wallet\epicwalletcheck\epicwalletcheck\obj\Debug\epicwalletcheck.pdb

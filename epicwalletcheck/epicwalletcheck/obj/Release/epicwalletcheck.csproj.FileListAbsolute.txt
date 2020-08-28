@@ -1,0 +1,6 @@
+C:\Users\Milena\Documents\SharpDevelop Projects\epicwalletcheck\epicwalletcheck\bin\Release\epicwalletcheck.exe.config
+C:\Users\Milena\Documents\SharpDevelop Projects\epicwalletcheck\epicwalletcheck\bin\Release\epicwalletcheck.exe
+C:\Users\Milena\Documents\SharpDevelop Projects\epicwalletcheck\epicwalletcheck\obj\Release\epicwalletcheck.csprojResolveAssemblyReference.cache
+C:\Users\Milena\Documents\SharpDevelop Projects\epicwalletcheck\epicwalletcheck\obj\Release\epicwalletcheck.MainForm.resources
+C:\Users\Milena\Documents\SharpDevelop Projects\epicwalletcheck\epicwalletcheck\obj\Release\epicwalletcheck.csproj.GenerateResource.Cache
+C:\Users\Milena\Documents\SharpDevelop Projects\epicwalletcheck\epicwalletcheck\obj\Release\epicwalletcheck.exe
