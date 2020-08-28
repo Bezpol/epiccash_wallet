@@ -9,3 +9,5 @@ C:\Users\Milena\Documents\GitHub\epiccash_wallet\EpicCashWallet\epicwalletsend\o
 C:\Users\Milena\Documents\GitHub\epiccash_wallet\EpicCashWallet\epicwalletsend\obj\Debug\epicwalletsend.g.resources
 C:\Users\Milena\Documents\GitHub\epiccash_wallet\EpicCashWallet\epicwalletsend\obj\Debug\epicwalletsend.exe
 C:\Users\Milena\Documents\GitHub\epiccash_wallet\EpicCashWallet\epicwalletsend\obj\Debug\epicwalletsend.pdb
+C:\Users\Milena\Documents\GitHub\epiccash_wallet\EpicCashWallet\epicwalletsend\obj\Debug\epicwalletsend.Resource1.resources
+C:\Users\Milena\Documents\GitHub\epiccash_wallet\EpicCashWallet\epicwalletsend\obj\Debug\epicwalletsend.csproj.GenerateResource.Cache

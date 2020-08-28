@@ -79,7 +79,16 @@
     <Page Include="Window1.xaml" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="..\epicwalletcheck\epicwalletcheck\icon.ico">
+      <Link>icon.ico</Link>
+    </None>
     <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="..\epicwalletcheck\epicwalletcheck\icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resource1.resx" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

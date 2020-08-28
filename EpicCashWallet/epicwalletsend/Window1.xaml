@@ -3,7 +3,8 @@
 	x:Class="epicwalletsend.Window1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
 	Title="epicwalletsend"
 	Height="300"
-	Width="300">
+	Width="300"
+	Icon="icon.ico">
 	<Grid>
 		<Label
 			Height="23"
@@ -13,17 +14,19 @@
 			Grid.Row="0"
 			HorizontalAlignment="Left"
 			VerticalAlignment="Top"
-			Margin="7,16,0,0" />
+			Margin="6.5,8,0,0"
+			Grid.ColumnSpan="2" />
 		<TextBox
 			Width="260"
 			Height="20"
+			Text="https://fastepic.eu/keybaseid_ilonapie"
+			x:Name="where"
 			Grid.Column="0"
 			Grid.Row="0"
 			HorizontalAlignment="Left"
 			VerticalAlignment="Top"
-			Margin="14,39,0,0"
-			Text="https://fastepic.eu/keybaseid_ilonapie"
-			x:Name="where" />
+			Margin="13.5,31,0,0"
+			Grid.ColumnSpan="2" />
 		<Label
 			Width="274"
 			Height="25"
@@ -32,55 +35,61 @@
 			Grid.Row="0"
 			HorizontalAlignment="Left"
 			VerticalAlignment="Top"
-			Margin="8,67,0,0" />
+			Margin="6.5,51,0,0"
+			Grid.ColumnSpan="2" />
 		<TextBox
 			Width="260"
 			Height="20"
-			Grid.Column="0"
-			Grid.Row="0"
-			HorizontalAlignment="Left"
-			VerticalAlignment="Top"
-			Margin="14,92,0,0"
 			Text="1000"
-			x:Name="amount" />
+			x:Name="amount"
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Top"
+			Margin="12.5,76,0,0"
+			Grid.ColumnSpan="2" />
 		<Label
 			Width="274"
 			Height="25"
+			Content="Message"
 			Grid.Column="0"
 			Grid.Row="0"
 			HorizontalAlignment="Left"
 			VerticalAlignment="Top"
-			Margin="7,120,0,0"
-			Content="Message" />
+			Margin="6.5,100.5,0,0"
+			Grid.ColumnSpan="2" />
 		<TextBox
 			Width="260"
 			Height="20"
-			Grid.Column="0"
-			Grid.Row="0"
-			HorizontalAlignment="Left"
-			VerticalAlignment="Top"
-			Margin="13,145,0,0"
 			Text="Kisses to fastepic.eu"
-			x:Name="message" />
+			x:Name="message"
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Top"
+			Margin="12.5,125.5,0,0"
+			Grid.ColumnSpan="2" />
 		<Label
 			Width="274"
 			Height="25"
+			Content="Epic Server"
 			Grid.Column="0"
 			Grid.Row="0"
 			HorizontalAlignment="Left"
 			VerticalAlignment="Top"
-			Margin="7,173,0,0"
-			Content="Epic Server" />
+			Margin="6.5,146,0,0"
+			Grid.ColumnSpan="2" />
 		<TextBox
 			Width="260"
 			Height="20"
+			Text="https://fastepic.eu:3413"
+			x:Name="server"
 			Grid.Column="0"
 			Grid.Row="0"
 			HorizontalAlignment="Left"
 			VerticalAlignment="Top"
-			Margin="13,198,0,0"
-			Text="https://fastepic.eu:3413"
-			x:Name="server" />
+			Margin="12.5,171,0,0"
+			Grid.ColumnSpan="2" />
 		<Button
 			Width="259"
 			Height="23"
@@ -92,6 +101,13 @@
 			Content="Send Epics"
 			FontWeight="Bold"
 			x:Name="button1"
-			Click="button1_Click" />
+			Click="button1_Click"
+			Grid.ColumnSpan="2" />
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition
+				Width="0*" />
+			<ColumnDefinition
+				Width="*" />
+		</Grid.ColumnDefinitions>
 	</Grid>
 </Window>
