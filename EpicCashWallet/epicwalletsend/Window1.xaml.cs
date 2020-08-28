@@ -16,6 +16,7 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Diagnostics;
+using System.Globalization;
 
 
 
@@ -52,9 +53,12 @@ namespace epicwalletsend
 
 	        try {
 	        	
-	        	Decimal amo = Convert.ToDecimal(amount.Text);
-	        
-	        	p.StartInfo.Arguments ="-r "+ server.Text + " send -d "+ where.Text + "  " + amo + " -g " + "\""+message.Text+"\"";
+	        	String amout1 = amount.Text.Replace('.',',');
+				double value = double.Parse(amout1);
+				const string specifier = "G";
+				CultureInfo culture = CultureInfo.CreateSpecificCulture("en-GB");
+
+	        	p.StartInfo.Arguments ="-r "+ server.Text + " send -d "+ where.Text + "  " + value.ToString(specifier, culture) + " -g " + "\""+message.Text+"\"";
 	        
 	        	Debug.WriteLine(p.StartInfo.Arguments);
        	
