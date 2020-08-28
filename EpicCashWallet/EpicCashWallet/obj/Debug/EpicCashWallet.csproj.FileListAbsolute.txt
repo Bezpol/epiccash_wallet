@@ -1,0 +1,11 @@
+C:\Users\Milena\Documents\GitHub\epiccash_wallet\EpicCashWallet\EpicCashWallet\bin\Debug\EpicCashWallet.exe.config
+C:\Users\Milena\Documents\GitHub\epiccash_wallet\EpicCashWallet\EpicCashWallet\bin\Debug\EpicCashWallet.exe
+C:\Users\Milena\Documents\GitHub\epiccash_wallet\EpicCashWallet\EpicCashWallet\bin\Debug\EpicCashWallet.pdb
+C:\Users\Milena\Documents\GitHub\epiccash_wallet\EpicCashWallet\EpicCashWallet\obj\Debug\EpicCashWallet.csprojResolveAssemblyReference.cache
+C:\Users\Milena\Documents\GitHub\epiccash_wallet\EpicCashWallet\EpicCashWallet\obj\Debug\Window1.baml
+C:\Users\Milena\Documents\GitHub\epiccash_wallet\EpicCashWallet\EpicCashWallet\obj\Debug\Window1.g.cs
+C:\Users\Milena\Documents\GitHub\epiccash_wallet\EpicCashWallet\EpicCashWallet\obj\Debug\App.g.cs
+C:\Users\Milena\Documents\GitHub\epiccash_wallet\EpicCashWallet\EpicCashWallet\obj\Debug\EpicCashWallet_MarkupCompile.cache
+C:\Users\Milena\Documents\GitHub\epiccash_wallet\EpicCashWallet\EpicCashWallet\obj\Debug\EpicCashWallet.g.resources
+C:\Users\Milena\Documents\GitHub\epiccash_wallet\EpicCashWallet\EpicCashWallet\obj\Debug\EpicCashWallet.exe
+C:\Users\Milena\Documents\GitHub\epiccash_wallet\EpicCashWallet\EpicCashWallet\obj\Debug\EpicCashWallet.pdb

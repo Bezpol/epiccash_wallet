@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window
+	x:Class="epicwalletsend.Window1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	Title="epicwalletsend"
+	Height="300"
+	Width="300">
+	<Grid>
+		<Label
+			Height="23"
+			Width="274"
+			Content="Where send epics"
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Top"
+			Margin="7,16,0,0" />
+		<TextBox
+			Width="260"
+			Height="20"
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Top"
+			Margin="14,39,0,0"
+			Text="https://fastepic.eu/keybaseid_ilonapie"
+			x:Name="where" />
+		<Label
+			Width="274"
+			Height="25"
+			Content="Amount of epics"
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Top"
+			Margin="8,67,0,0" />
+		<TextBox
+			Width="260"
+			Height="20"
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Top"
+			Margin="14,92,0,0"
+			Text="1000"
+			x:Name="amount" />
+		<Label
+			Width="274"
+			Height="25"
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Top"
+			Margin="7,120,0,0"
+			Content="Message" />
+		<TextBox
+			Width="260"
+			Height="20"
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Top"
+			Margin="13,145,0,0"
+			Text="Kisses to fastepic.eu"
+			x:Name="message" />
+		<Label
+			Width="274"
+			Height="25"
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Top"
+			Margin="7,173,0,0"
+			Content="Epic Server" />
+		<TextBox
+			Width="260"
+			Height="20"
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Top"
+			Margin="13,198,0,0"
+			Text="https://fastepic.eu:3413"
+			x:Name="server" />
+		<Button
+			Width="259"
+			Height="23"
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Bottom"
+			Margin="14,0,0,19"
+			Content="Send Epics"
+			FontWeight="Bold"
+			x:Name="button1"
+			Click="button1_Click" />
+	</Grid>
+</Window>
